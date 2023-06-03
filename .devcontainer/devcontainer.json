@@ -23,6 +23,16 @@
 			"omzPlugins": "https://github.com/zsh-users/zsh-autosuggestions",
 			"username": "vscode"
 		}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"bradlc.vscode-tailwindcss",
+				"Prisma.prisma",
+				"GitHub.copilot",
+				"GitHub.copilot-labs"
+			]
+		}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
